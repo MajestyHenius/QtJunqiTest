@@ -1,0 +1,3 @@
+#Chinese Junqi Chess Game
+This is a practice of building a Chinese Junqi or "land battle chess". Now it supports 1)pieces setting up period before the battle begins, and 2) the pieces moving and eating logic. 
+To be continued...
